@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_hint">City (i.e Charlotte)</string>
+    <string name="state_hint">State (i.e NC)</string>
+</resources>
